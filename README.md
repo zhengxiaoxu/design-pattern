@@ -7,3 +7,5 @@ This is a repository for my own practise on design pattern.
 2. Configure the local git repository with SourceTree;
 
 test with new feature.
+
+test with new feature2.
